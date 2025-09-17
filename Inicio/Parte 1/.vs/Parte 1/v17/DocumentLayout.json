@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Practica\\Inicio\\Parte 1\\",
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Downloads\\MiParte3\\Practica-calificada\\Inicio\\Parte 1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C748ABEB-9F71-4495-9A92-CA313BA86A34}|Parte 1\\Parte 1.csproj|c:\\users\\usuario\\onedrive\\desktop\\practica\\inicio\\parte 1\\parte 1\\parte 1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{C748ABEB-9F71-4495-9A92-CA313BA86A34}|Parte 1\\Parte 1.csproj|c:\\users\\usuario\\downloads\\miparte3\\practica-calificada\\inicio\\parte 1\\parte 1\\parte 1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{C748ABEB-9F71-4495-9A92-CA313BA86A34}|Parte 1\\Parte 1.csproj|solutionrelative:parte 1\\parte 1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -14,19 +14,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Parte 1.csproj",
-              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Practica\\Inicio\\Parte 1\\Parte 1\\Parte 1.csproj",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\MiParte3\\Practica-calificada\\Inicio\\Parte 1\\Parte 1\\Parte 1.csproj",
               "RelativeDocumentMoniker": "Parte 1\\Parte 1.csproj",
-              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Practica\\Inicio\\Parte 1\\Parte 1\\Parte 1.csproj",
+              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\MiParte3\\Practica-calificada\\Inicio\\Parte 1\\Parte 1\\Parte 1.csproj",
               "RelativeToolTip": "Parte 1\\Parte 1.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
